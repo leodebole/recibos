@@ -1,0 +1,32 @@
+/* *{
+    font-family: 'Roboto', sans-serif;
+}*/
+table.dataTable thead {background-color:blue}
+.tituloRec{
+    background-color: #15646c;
+    border-left: 10px solid white;
+}
+#addCliente{
+    display: none;
+}
+#addRecibo{
+    display: block;
+}
+
+/*
+#searchBox1{
+    display: none;
+}
+#searchBox2{
+    display: none;
+}
+#searchBox3{
+    display: none;
+}
+#searchBox4{
+    display: none;
+}
+#searchBox5{
+    display: none;
+}
+*/

@@ -1,0 +1,29 @@
+
+
+
+edit recibo no anda
+
+
+cuando edit recibo, mando variable edit=1 para distinguir si envia mail , armarlo
+
+
+bd - 	agregar a cliente activo/inactivo y fecha de cambio de estado
+	revisar en las consultas de recibos y agregado de nuevo recibo que se agregue el campo
+	en lista de clientes, cambiar trash accion
+	-	agregar campo sigla en tipo de pago y agregar tipo de pago banco provincia
+	-	cambiar en tipo de pago banco por Bco
+
+en envio de mail, no guarda en enviados
+
+
+
+Al finalizar
+volver a configurar el mail de angie
+
+
+
+AGREGAR EN cliente	CTA CTE Y ABONO
+
+AGREGAR EN RECIBOS PERIODO, AUTOMATICO EN HONORARIOS MENSUALES Y CON CAMPO TEXTO EN HONORARIOS por
+
+cliente ACTIVO/DASACTIVADO
