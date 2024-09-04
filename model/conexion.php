@@ -2,7 +2,7 @@
 $contrasena = "root";
 $usuario = "root";
 $nombre_bd = "sistema";
-$db_server = 'db_server'
+$db_server = 'db_server';
 
 try {
 	$bd = new PDO (
