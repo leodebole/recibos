@@ -1,7 +1,7 @@
 <?php 
-$contrasena = "";
+$contrasena = "root";
 $usuario = "root";
-$nombre_bd = "_sistema";
+$nombre_bd = "sistema";
 $db_server = 'db_server'
 
 try {
