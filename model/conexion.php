@@ -2,10 +2,11 @@
 $contrasena = "";
 $usuario = "root";
 $nombre_bd = "_sistema";
+$db_server = 'db_server'
 
 try {
 	$bd = new PDO (
-		'mysql:host=localhost;
+		'mysql:host='.$db_server.';
 		dbname='.$nombre_bd,
 		$usuario,
 		$contrasena,
